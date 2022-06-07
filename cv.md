@@ -5,9 +5,9 @@
 ## My Contact Info:
 **************
 * **Phone:** +995598904628
-* **E-mail: svarog26084@gmail.com
-* **GitHub: ValeryAsh
-* **Telegram: +375293779164
+* **E-mail**: svarog26084@gmail.com
+* **GitHub**: ValeryAsh
+* **Telegram**: +375293779164
 **********
 **********
 ## About Me 
