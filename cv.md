@@ -5,18 +5,14 @@
 ## My Contact Info:
 **************
 * **Phone:** +995598904628
-* **E-mail:** svarog26084@gmail.com
-* **GitHub:** ValeryAsh
-* **Telegram:** +375293779164
-**********
+* **E-mail: svarog26084@gmail.com
+* **GitHub: ValeryAsh
+* **Telegram: +375293779164
 **********
 **********
 ## About Me 
 **********
-**********
 I am 24 years old, purchasing manager. I want to work in IT because this is the future. I like to learn something new and I want to realize myself as a specialist. That's why I'm here. My goal is to gain knowledge in the field of front-end development and succeed through hard work.
-********
-********
 ********
 * My strengths:
 - Team playing
@@ -33,9 +29,11 @@ I am 24 years old, purchasing manager. I want to work in IT because this is the 
 ********
 ********
 ## Education
+********
 * BELORUSSIAN TRADE-ECONOMIC UNIVERSITY OF CONSUMER COOPERATION
 + commercial activity
 ## Languages
+********
 * Russian- Native
 * English- A2 (in the process of studying)
 * Polish - A2
