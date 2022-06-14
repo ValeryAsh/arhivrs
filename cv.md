@@ -1,4 +1,4 @@
-### [rsschool-cv](https://valeryash.github.io/rsschool-cv)
+### [rsschool-cv](#)
 ## Valery Asheichyk
 ********
 ********
