@@ -7,7 +7,7 @@
 * **Phone:** +995598904628
 * **E-mail:** svarog26084@gmail.com
 * **GitHub:** ValeryAsh
-* **Telegram:** +375293779164
+* **Discord** Bydda_voploti (ValeriyAsh)#9646
 **********
 **********
 **********
@@ -21,8 +21,8 @@ I am 24 years old, purchasing manager. I want to work in IT because this is the 
 * My strengths:
 - Team playing
 - Stress tolerance
-- zeal
-- perseverance
+- Zeal
+- Perseverance
 ******
 ******
 ## Skills
@@ -36,6 +36,7 @@ I am 24 years old, purchasing manager. I want to work in IT because this is the 
 * BELORUSSIAN TRADE-ECONOMIC UNIVERSITY OF CONSUMER COOPERATION
 + commercial activity
 ## Languages
+* Belarusian language- Native
 * Russian- Native
 * English- A2 (in the process of studying)
 * Polish - A2
